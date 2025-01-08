@@ -1,3 +1,5 @@
+package com.gui.quizapp;
+
 import java.util.*;
 
 public class TraditionsQuiz {
